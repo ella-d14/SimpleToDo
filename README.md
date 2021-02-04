@@ -4,7 +4,7 @@
 
 Submitted by: **Gisella De La Portilla**
 
-Time spent: **12** hours spent in total
+Time spent: **14** hours spent in total
 
 ## User Stories
 
